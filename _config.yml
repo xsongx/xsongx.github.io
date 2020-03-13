@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Welcome to learningdeep!
+description: 如学不深，似水鱼浅！
 github_username: xsongx
 
 # Email and twitter are optional:
@@ -18,7 +18,7 @@ twitter_username:xsongxnudt
 use_math:true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:xsongx.nudt
+google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
